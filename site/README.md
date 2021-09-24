@@ -5,6 +5,6 @@ html <!DOCTYPE html>
 	<title>Hello</title>
 </head>
 <body>
-<h1>Hello</h1>
+<h1>Hello it's a great course</h1>
 </body>
 </html>
